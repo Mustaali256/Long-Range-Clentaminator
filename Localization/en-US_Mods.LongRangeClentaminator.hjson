@@ -1,0 +1,14 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	LongRangeClentaminator: {
+		DisplayName: Enhanced Clentaminator
+		Tooltip:
+			'''
+			Creates and destroys biomes when sprayed
+			Uses colored solution
+			Overkill? No. Overclean.
+			[c/23a718:Maybe the Dryad will respond to your texts now...]
+			'''
+	}
+}
