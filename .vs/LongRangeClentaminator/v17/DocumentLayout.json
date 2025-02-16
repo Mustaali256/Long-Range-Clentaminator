@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\Content\\Systems\\MultiplayerWarningPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Content\\Systems\\MultiplayerWarningPlayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\LongRangeClentaminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LongRangeClentaminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MultiplayerWarningPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\Content\\Systems\\MultiplayerWarningPlayer.cs",
+              "RelativeDocumentMoniker": "Content\\Systems\\MultiplayerWarningPlayer.cs",
+              "ToolTip": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\Content\\Systems\\MultiplayerWarningPlayer.cs",
+              "RelativeToolTip": "Content\\Systems\\MultiplayerWarningPlayer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T13:34:25.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LongRangeClentaminator.cs",
               "DocumentMoniker": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\LongRangeClentaminator.cs",
               "RelativeDocumentMoniker": "LongRangeClentaminator.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LongRangeClentaminatorProjectile.cs",
               "DocumentMoniker": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\Content\\Projectiles\\LongRangeClentaminatorProjectile.cs",
               "RelativeDocumentMoniker": "Content\\Projectiles\\LongRangeClentaminatorProjectile.cs",
@@ -52,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LongRangeClentaminator.cs",
               "DocumentMoniker": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\Content\\Items\\LongRangeClentaminator.cs",
               "RelativeDocumentMoniker": "Content\\Items\\LongRangeClentaminator.cs",
               "ToolTip": "C:\\Users\\musta\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LongRangeClentaminator\\Content\\Items\\LongRangeClentaminator.cs",
               "RelativeToolTip": "Content\\Items\\LongRangeClentaminator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-05T12:33:12.264Z",
               "EditorCaption": ""

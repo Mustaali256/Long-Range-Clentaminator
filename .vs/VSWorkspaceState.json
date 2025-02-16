@@ -4,8 +4,9 @@
     "\\Content",
     "\\Content\\Items",
     "\\Content\\Projectiles",
+    "\\Content\\Systems",
     "\\Localization"
   ],
-  "SelectedNode": "\\Content\\Items\\LongRangeClentaminator.cs",
+  "SelectedNode": "\\Content\\Systems\\MultiplayerWarningPlayer.cs",
   "PreviewInSolutionExplorer": false
 }
