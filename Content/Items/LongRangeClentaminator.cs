@@ -43,6 +43,22 @@ namespace LongRangeClentaminator.Content.Items
                 .AddIngredient(ItemID.HallowedBar, 5)
                 .AddTile(TileID.MythrilAnvil) // Requires a Mythril/Orichalcum Anvil
                 .Register();
+            CreateRecipe()
+                .AddIngredient(ItemID.Clentaminator) // Requires a normal Clentaminator
+                .AddIngredient(ItemID.TinBar, 5)
+                .AddIngredient(ItemID.CrimtaneBar, 5)
+                .AddIngredient(ItemID.ChlorophyteBar, 5)
+                .AddIngredient(ItemID.HallowedBar, 5)
+                .AddTile(TileID.MythrilAnvil) // Requires a Mythril/Orichalcum Anvil
+                .Register();
+            CreateRecipe()
+                .AddIngredient(ItemID.Clentaminator) // Requires a normal Clentaminator
+                .AddIngredient(ItemID.TinBar, 5)
+                .AddIngredient(ItemID.CrimtaneBar, 5)
+                .AddIngredient(ItemID.ChlorophyteBar, 5)
+                .AddIngredient(ItemID.HallowedBar, 5)
+                .AddTile(TileID.MythrilAnvil) // Requires a Mythril/Orichalcum Anvil
+                .Register();
         }
 
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LongRangeClentaminator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38411000e1f5ba4fcfb3f076cb3f10834bc8f951")]
 [assembly: System.Reflection.AssemblyProductAttribute("LongRangeClentaminator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LongRangeClentaminator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

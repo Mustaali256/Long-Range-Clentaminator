@@ -24,10 +24,6 @@ public class LongRangeClentaminatorProjectile : GlobalProjectile
     }
     public override void AI(Projectile projectile)
     {
-        if (projectile.timeLeft == 120) // Ensures it only plays once per shot
-        {
-            SoundEngine.PlaySound(SoundID.Item13, projectile.position);
-        }
         for (int i = 0; i < 3; i++) // Spawn 3 times more dust
         {
             if (projectile.type == ProjectileID.PureSpray)
